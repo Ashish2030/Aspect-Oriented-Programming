@@ -18,10 +18,9 @@
 <img src="https://img.shields.io/github/issues-pr/ashish2030/Aspect-oriented-programming?style=flat-square" alt="Aspect-oriented-programming"/>
 </a>
   </p>
-  
 <p align="center"><img src="https://github.com/Ashish2030/Aspect-oriented-programming/blob/master/video/video.gif" ></p>
 <p align="center">
-    <a href="https://image-hoster-ashish.herokuapp.com/" target="blank">View Demo</a>
+    <a href="https://github.com/Ashish2030/Aspect-oriented-programming" target="blank">View Demo</a>
     ·
     <a href="https://github.com/ashish2030/Aspect-oriented-programming/issues/new/choose">Report Bug</a>
     ·
