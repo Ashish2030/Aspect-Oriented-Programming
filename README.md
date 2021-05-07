@@ -22,7 +22,8 @@
  [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Aspect-Oriented-Programming)](https://github.com/ashish2030/Aspect-Oriented-Programming/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Aspect-Oriented-Programming)](https://github.com/ashish2030/Aspect-Oriented-Programming/archive/master.zip)
  
-![video](https://user-images.githubusercontent.com/61516051/117417457-fe555780-af37-11eb-8e85-cb6ef1cae871.gif)
+https://user-images.githubusercontent.com/61516051/117417858-67d56600-af38-11eb-9242-c5eb5898a704.mp4
+
 
 <p align="center">
     <a href="https://github.com/Ashish2030/Aspect-oriented-programming" target="blank">View Demo</a>
